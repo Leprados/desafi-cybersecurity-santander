@@ -1,6 +1,6 @@
 # desafio-cybersecurity-santander
 
-Este leia-me se refere ao resultado do desafio de cybersecurity santader.
+Este leia-me se refere ao resultado do desafio de cybersecurity santader onde foi realizado a simulação de um ataque phishing. 
 
 No desafio foi usado o kallil linux e programa setoolkit
 
