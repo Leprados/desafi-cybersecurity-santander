@@ -11,3 +11,6 @@ Então usei o comando sudo lsof -t -i tcp:80 -s tcp:listen | sudo xargs kill, pa
 RESULTADO:
 
 ![image](https://github.com/user-attachments/assets/fcf5aa92-8aea-432f-beff-4608ad79484a)
+
+#Desafio 2
+Estão aqui também os arquivos referentes ao desafio de desenvolvimento de um ransomware 
